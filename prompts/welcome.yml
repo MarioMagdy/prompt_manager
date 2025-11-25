@@ -1,0 +1,2 @@
+template: "Hello {name}, welcome to {app_name}!"
+description: "Basic welcome message"
